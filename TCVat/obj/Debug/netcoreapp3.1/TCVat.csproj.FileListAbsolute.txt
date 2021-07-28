@@ -1,0 +1,15 @@
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.csproj.AssemblyReference.cache
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.Form1.resources
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.csproj.GenerateResource.cache
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.AssemblyInfoInputs.cache
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.AssemblyInfo.cs
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.csproj.CoreCompileInputs.cache
+C:\Users\yemre\Desktop\C#\Project1\TCVat\bin\Debug\netcoreapp3.1\TCVat.exe
+C:\Users\yemre\Desktop\C#\Project1\TCVat\bin\Debug\netcoreapp3.1\TCVat.deps.json
+C:\Users\yemre\Desktop\C#\Project1\TCVat\bin\Debug\netcoreapp3.1\TCVat.runtimeconfig.json
+C:\Users\yemre\Desktop\C#\Project1\TCVat\bin\Debug\netcoreapp3.1\TCVat.runtimeconfig.dev.json
+C:\Users\yemre\Desktop\C#\Project1\TCVat\bin\Debug\netcoreapp3.1\TCVat.dll
+C:\Users\yemre\Desktop\C#\Project1\TCVat\bin\Debug\netcoreapp3.1\TCVat.pdb
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.dll
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.pdb
+C:\Users\yemre\Desktop\C#\Project1\TCVat\obj\Debug\netcoreapp3.1\TCVat.genruntimeconfig.cache
